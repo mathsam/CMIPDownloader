@@ -1,5 +1,5 @@
-# CimpDownloader
-Downloader of CIMP (Coupled Model Intercomparison Project) data
+# CMIPDownloader
+Downloader of CMIP (Coupled Model Intercomparison Project) data
 
 ## Usage
 ```
